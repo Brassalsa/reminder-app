@@ -1,7 +1,8 @@
 # Reminder App
 
 Reminder app made with React, Redux, tailwindCSS, typescript and more.
-Deployed on [Netlify]("https://www.netlify.com/")
+Deployed on [Netlify](https://www.netlify.com/)
+
 Live preview  [reminder-app-vite](https://reminder-app-vite.netlify.app/)
 
 # Installation
